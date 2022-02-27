@@ -1,0 +1,28 @@
+.lasagna {
+  font-size: 32px;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  color: aqua;
+  background-color: black;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+}
+
+p {
+  color: turquoise;
+  background-color: yellow;
+  font-size: 32px;
+}
+
+ol {
+  color: darkcyan;
+}
+
+#img {
+  display: block;
+  margin: auto;
+}
